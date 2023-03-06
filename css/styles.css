@@ -1,0 +1,115 @@
+/*TAG*/
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3rem;
+  padding: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  font-size: 1rem;
+  margin: 15px auto 0 auto;
+}
+
+hr {
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+
+
+/*CLASS*/
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.designer {
+  color: #66BFBF;
+}
+
+.de {
+  text-decoration: underline;
+}
+
+.middle-text {
+  margin: 5px 25% 5px 25%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  padding-top: 100px;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+
+.skills-description {
+  clear: left;
+}
+
+.chillies-description {
+  clear: right;
+}
+
+
+.chillies {
+ width: 25%;
+ float: right;
+ margin-left: 20px;
+}
+
+.footer-link {
+  color: #11999E
+}
